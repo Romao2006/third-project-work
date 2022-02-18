@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 768px) {
   .cover__subtittle {
-    margin: calc(16px (100vw - 320px) / (768 - 320) * (32 - 16)) auto 0;
+    margin: calc(16px + (100vw - 320px) / (768 - 320) * (32 - 16)) auto 0;
     font-size: calc(14px + (100vw - 320px) / (768 - 320) * (18 - 14));
   }
 }
