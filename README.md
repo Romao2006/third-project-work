@@ -1,4 +1,21 @@
 # Проект: Путешествие по России
+### *Учебный проект от Яндекс.Практикум*
+Проект создан в рамках прохождения 3 спринта курса Веб-разработчик.
+
+
+### Тухнологии и реализация
+
+## Стек технологий:
+* HTML5;
+* CSS3:
+* Flexbox;
+* Grid Layout;
+* Positioning;
+* Adaptive UI;
+* Media Queries;
+* Методология БЭМ;
+* Фйловая структура Nested БЭМ;
+* Вёрстка по макету в Figma.
 
 ### Обзор
 * Интро
@@ -13,11 +30,7 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на макет проекта в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+## Ссылка на сайт:
+https://romao2006.github.io/third-project-work/
