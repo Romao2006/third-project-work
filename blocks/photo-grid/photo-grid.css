@@ -21,9 +21,9 @@
   }
 }
 
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 320px) {
   .photo-grid {
     grid-template-columns: fit-content(288px);
-    gap: 1200px;
+    gap: 12pxgit add;
   }
 }
