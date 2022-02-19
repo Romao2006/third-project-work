@@ -13,9 +13,9 @@
 
   @media screen and (max-width: 768px) {
     .lead__subtitle {
-      margin: calc(16px + (100vw - 320px) / (1024 - 768) * (32 - 16)) auto 0;
+      margin: calc(16px + (100vw - 320px) / (768 - 320) * (32 - 16)) auto 0;
       padding: 0 16px;
-      font-size: calc(16px + (100vw - 320px) / (1024 - 768) * (30 - 16));
-      line-height: calc(30px + (100vw - 320) / (768 - 320) * (36 - 30));
+      font-size: calc(16px + (100vw - 320px) / (768 - 320) * (30 - 16));
+      line-height: calc(30px + (100vw - 320px) / (768 - 320) * (36 - 30));
     }
   }
