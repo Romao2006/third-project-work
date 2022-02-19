@@ -6,3 +6,7 @@
   line-height: 18px;
   transition: opacity 0.2s linear;
 }
+
+.footer__link:hover {
+  opacity: .8;
+}

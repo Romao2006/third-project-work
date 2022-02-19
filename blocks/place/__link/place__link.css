@@ -2,16 +2,16 @@
   position: relative;
   color: #fff;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 22px;
   transition: opacity 0.2s linear;
-  font-family: Inter;
+  font-family: Inter, Times New Roman, serif, sans-serif;
   font-style: normal;
 }
 
 .place__link:hover {
-  opacity: 0.4;
+  opacity: 0.8;
 }
 
 .place__link:after {
